@@ -1,4 +1,4 @@
-
+// Usando session Storage to salve old value
 // Register this code in the form onload
 function OnloadGetOldcnpjValue(e) {
 	var formContext = e.getFormContext();  
